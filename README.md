@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Things
 - 📫 How to reach me ... Friendface
 
-- This README has Super Cow Powers.
+- 🐮 This README has Super Cow Powers.
 
 <!---
 sirlucidae/sirlucidae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
