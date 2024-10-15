@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 - 🐠 I’m currently learning ... Stuff
 - 🐸 I’m looking to collaborate on ... Things
 - 🐦 How to reach me ... Friendface
-- 🐭 My daily driver ... Debian/XFCE
+- 🐭 My daily driver ... Xubuntu
 - 🐮 This README has Super Cow Powers.
