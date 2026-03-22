@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 - 🐶 Hi, I’m @sirlucidae
 - 🐧 I’m interested in ... Linux
-- 🐠 I’m currently learning ... Stuff
-- 🐸 I’m looking to collaborate on ... Things
+- 🐠 I’m currently learning ... a bit of everything
+- 🐸 I’m looking to collaborate on ... nothing right now
 - 🐦 How to reach me ... Friendface
-- 🐭 My daily driver ... Xubuntu
+- 🐭 My daily driver ... CachyOS
 - 🐮 This README has Super Cow Powers.
